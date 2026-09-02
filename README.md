@@ -1,1 +1,1 @@
-# R25EF147
+I am Bilal, an engineering student passionate about software development, cloud computing, and artificial intelligence. This repository serves as my professional portfolio to track my projects, technical skills, and continuous learning journey.
